@@ -1,0 +1,6 @@
+{
+  "name": "Zyreenn",
+  "description": "Pusat Kebutuhan Gamer eFootball & Multi-Game. Unduh Patch Resmi, Performance Config 60-120 FPS, Tools Game, dan Cek Kompatibilitas Chipset Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
